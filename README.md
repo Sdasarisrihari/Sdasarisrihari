@@ -8,9 +8,8 @@ I’m currently pursuing an MS in Information Studies at the University of Trine
 
 ## 💞️ Looking to Collaborate On
 I’m open to collaborating on projects related to:
-- Full-stack web development 
+- Full-stack development 
 - Cloud computing and AWS solutions
-- Cybersecurity assessments and penetration testing
 - Machine learning and data-driven applications
 
 ## projects 
@@ -26,8 +25,3 @@ He/Him
 
 ## ⚡ Fun Fact
 I have a keen interest in AI-based security applications and once built a model that predicts Warfarin dosage using machine learning, achieving an F1-score of 0.74. I also enjoy exploring the latest trends in cloud technologies and automation.
-
-<!---
-Sdasarisrihari/Sdasarisrihari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
