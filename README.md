@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Srihari Dasari (@Sdasarisrihari)
 
 ## 👀 About Me
-I’m a highly motivated software developer with over 2 years of experience in building scalable solutions using Python, C++. I have a strong background in cloud platforms (AWS), full-stack development, and cybersecurity. I’m passionate about solving complex problems and collaborating with cross-functional teams to deliver innovative software solutions.
+I’m a highly motivated software developer with over 2 years of experience in building scalable solutions using Python, C++. I have a strong background in cloud platforms (AWS), full-stack development. I’m passionate about solving complex problems and collaborating with cross-functional teams to deliver innovative software solutions.
 
 ## 🌱 Currently Learning
 I’m currently pursuing an MS in Information Studies at the University of Trine with a 4.0 GPA. I’m expanding my knowledge in advanced database systems, network management, and cloud computing.
